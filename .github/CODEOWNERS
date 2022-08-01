@@ -1,0 +1,4 @@
+* @jools-arts
+*.js @jools-arts
+*.yml @jools-arts
+/public/ @jools-arts
